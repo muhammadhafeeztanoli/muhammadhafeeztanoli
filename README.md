@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @muhammadhafeeztanoli
-- 👀 I’m interested in Software Development. I am expert in Front end development
+- Hi, I’m @muhammadhafeeztanoli
+- I’m interested in Software Development. I am expert in Front end development
 - These are my main skills
 - HTML
 - CSS
